@@ -38,5 +38,5 @@ windows用户在命令行内运行run_app.py
 - 强度值越高，人声越明显，但噪音越大。
 
 ## 致谢
-[Trae](https://github.com/trae) 
+[Trae](https://github.com/Trae-AI) 
 [Claude](https://github.com/claude) 
