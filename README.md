@@ -26,6 +26,7 @@
 mac用户直接点击start_app.commad
 请预先配置python环境
 windows用户在命令行内运行run_app.py
+2.0版本多级处理和传统混合算法无任何用处 只是懒得修啦TT
 
 ## 工作原理
 
