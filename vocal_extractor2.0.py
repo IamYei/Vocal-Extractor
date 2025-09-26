@@ -726,7 +726,7 @@ class EnhancedVocalExtractorApp(QMainWindow):
 
 def main():
     app = QApplication(sys.argv)
-    app.setApplicationName("增强版人声提取器")
+    app.setApplicationName("人声提取器2.0")
     app.setApplicationVersion("2.0")
     app.setOrganizationName("VocalExtractor")
     
