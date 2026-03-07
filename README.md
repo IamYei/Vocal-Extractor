@@ -2,6 +2,35 @@
 
 这是一个基于频率分析的人声提取应用程序，可以从歌曲中提取人声部分，而不使用传统的反相消除法，效果更自然。做到了类似utagoe的功能，效果更好。
 
+# Open Source Distribution Paused / 暂停开源分发
+Thank you for your support and interest in this project.
+
+Starting from the next versions, the source code of this project will **temporarily no longer be publicly distributed**.
+This decision was made to allow further development and restructuring of the project.
+
+Please note:
+
+* The **previous open-source versions will remain available** in this repository.
+* Future updates may continue to be released as **compiled binaries**.
+* The project **may return to open-source in the future**, depending on development plans.
+
+Thank you for your understanding and continued support.
+
+---
+
+感谢大家一直以来对本项目的关注和支持。
+
+从后续版本开始，本项目的**源代码将暂时不再公开分发**。
+做出这个决定是为了方便项目后续的开发与结构调整。
+
+需要说明的是：
+
+* **此前已开源的版本仍会保留在仓库中。**
+* 未来可能仍会以 **Releases** 形式发布。
+* 在合适的情况下，项目 **可能会重新恢复开源**。
+
+感谢大家的理解与支持。
+
 ## 功能特点
 
 - 导入歌曲和伴奏文件
